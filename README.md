@@ -33,4 +33,11 @@ Quality: Great
 ssid: `linocafe`
 pass: `dobrakava`
 
+### Mariatchi
 
+pass: `clandestino` (je to na napojov listky)
+
+### Sefiki cukraren
+
+ssid: `Sefiki_Cukraren`
+pass: `cukraren1111`
