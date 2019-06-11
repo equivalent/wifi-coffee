@@ -41,3 +41,11 @@ pass: `clandestino` (je to na napojov listky)
 
 ssid: `Sefiki_Cukraren`
 pass: `cukraren1111`
+
+
+### Madal Cafe, Budapest
+
+ssid: `Madal_Alkotmany`
+pass: `madal1931`
+address: Budapest, Alkotmány u. 4, 1054 Hungary (there are 3 Medal Cafe
+in Budapest, this one is really remote frientdly)
