@@ -47,5 +47,12 @@ pass: `cukraren1111`
 
 ssid: `Madal_Alkotmany`
 pass: `madal1931`
-address: Budapest, Alkotmány u. 4, 1054 Hungary (there are 3 Medal Cafe
-in Budapest, this one is really remote frientdly)
+address: Budapest, Alkotmány u. 4, 1054 Hungary (there are 3 Medal Cafe in Budapest, this one is really remote frientdly)
+updated: 2019-06-12
+
+### Steamouse Coffee, Budapest
+
+ssid: `Steamhouse Cafe`
+pass: `ilovethiscoffee1`
+updated: 2019-06-12
+
