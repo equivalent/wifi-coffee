@@ -9,6 +9,10 @@ ssid: `ranajky`
 pass: `cappuccino`
 Quality: :poop:
 
+#### Pod Vrskom Nitra
+
+ssid: `libresso`
+pass: `antikvariat`
 
 #### Zuami Nitra
 
