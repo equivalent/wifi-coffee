@@ -13,6 +13,7 @@ Quality: :poop:
 
 ssid: `libresso`
 pass: `antikvariat`
+Quality: :poop: but awesome place to focuse
 
 #### Zuami Nitra
 
