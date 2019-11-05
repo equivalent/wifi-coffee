@@ -2,6 +2,11 @@
 
 Coffee-place-WiFi, got to catch them all !
 
+#### Stara Kotolna Nitra
+
+ssid: `kotolna`
+pass: `82541859`
+
 
 #### Ranô ptáča Bratislava
 
