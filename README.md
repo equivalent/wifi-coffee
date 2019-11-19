@@ -2,6 +2,11 @@
 
 Coffee-place-WiFi, got to catch them all !
 
+#### N-centro Siesticka caffee
+
+ssid: `sisticka`
+pass: `Siesticka`
+
 #### Stara Kotolna Nitra
 
 ssid: `kotolna`
