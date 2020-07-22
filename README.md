@@ -2,6 +2,11 @@
 
 Coffee-place-WiFi, got to catch them all !
 
+#### N-centro Music Cafee
+
+ssid: `Music Cafe Nitra`
+pass: `acafe123`
+
 #### N-centro Siesticka caffee
 
 ssid: `sisticka`
