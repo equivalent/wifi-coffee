@@ -2,6 +2,12 @@
 
 Coffee-place-WiFi, got to catch them all !
 
+
+#### Finis snackbar
+
+ssid: TP-Link_B97D
+pass: '83989308'
+
 #### N-centro Music Cafee
 
 ssid: `Music Cafe Nitra`
