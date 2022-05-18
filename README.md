@@ -2,6 +2,11 @@
 
 Coffee-place-WiFi, got to catch them all !
 
+#### Mila Deva Nitra
+
+ssid: miladeva
+pass: dobruchut
+
 
 #### Finis snackbar
 
