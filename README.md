@@ -2,6 +2,11 @@
 
 Coffee-place-WiFi, got to catch them all !
 
+#### BFF kaviaren nitra
+
+ssid: OSK_44D1
+pass: TXBOMRC0DE
+
 #### Mila Deva Nitra
 
 ssid: miladeva
