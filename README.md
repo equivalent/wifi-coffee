@@ -2,6 +2,12 @@
 
 Coffee-place-WiFi, got to catch them all !
 
+
+#### Love Food
+
+ssid:  Telekom-804808
+pass:  582re5fdfdpfrxkd
+
 #### BFF kaviaren nitra
 
 ssid: OSK_44D1
