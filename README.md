@@ -87,12 +87,9 @@ pass: `cukraren1111`
 
 ### Barber coffee nitra
 
-ssid: Farska CAFFE/BARBERS
-pass: NAJPRVSIDAJDRINK
+ssid: Farska Guest
+pass: PE7O9O223C
 
-old:
-  ssid: orangeflybox_358A
-  pass: 73495451
 
 ### Madal Cafe, Budapest
 
