@@ -2,6 +2,10 @@
 
 Coffee-place-WiFi, got to catch them all !
 
+#### Moka Coffee (Fatranska Nitra)
+
+ssid: coffeshop
+pass: moka2019
 
 #### Love Food
 
